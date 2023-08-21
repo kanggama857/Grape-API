@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "grapeapi.client",
+      "type": "com.grapeapi.apiclientsdk.OpenApiClientConfig",
+      "sourceType": "com.grapeapi.apiclientsdk.OpenApiClientConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "grapeapi.client.access-key",
+      "type": "java.lang.String",
+      "sourceType": "com.grapeapi.apiclientsdk.OpenApiClientConfig"
+    },
+    {
+      "name": "grapeapi.client.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.grapeapi.apiclientsdk.OpenApiClientConfig"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,562 @@
+2023-08-16 08:32:12.537 INFO [restartedMain:c.a.n.c.u.ParamUtil] [settings] [req-serv] nacos-server port:8848
+2023-08-16 08:32:12.537 INFO [restartedMain:c.a.n.c.u.ParamUtil] [settings] [http-client] connect timeout:1000
+2023-08-16 08:32:12.537 INFO [restartedMain:c.a.n.c.u.ParamUtil] PER_TASK_CONFIG_SIZE: 3000.0
+2023-08-16 08:32:12.569 INFO [restartedMain:c.a.n.c.a.r.i.CredentialWatcher] null No credential found
+2023-08-16 08:32:12.569 INFO [restartedMain:c.a.n.c.c.i.LocalConfigInfoProcessor] LOCAL_SNAPSHOT_PATH:E:\code\Grape-API/gatewayDubboCache\nacos\config
+2023-08-16 08:32:15.166 INFO [com.alibaba.nacos.client.remote.worker:c.a.n.c.c.i.ClientWorker] [fa228219-3dca-4538-8cd9-0e1aecd49cc7_config-0] Connected,notify listen context...
+2023-08-16 08:32:15.198 INFO [restartedMain:c.a.n.c.c.i.Limiter] limitTime:5.0
+2023-08-16 08:34:44.321 INFO [restartedMain:c.a.n.c.u.ParamUtil] [settings] [req-serv] nacos-server port:8848
+2023-08-16 08:34:44.322 INFO [restartedMain:c.a.n.c.u.ParamUtil] [settings] [http-client] connect timeout:1000
+2023-08-16 08:34:44.324 INFO [restartedMain:c.a.n.c.u.ParamUtil] PER_TASK_CONFIG_SIZE: 3000.0
+2023-08-16 08:34:44.327 INFO [restartedMain:c.a.n.c.a.r.i.CredentialWatcher] null No credential found
+2023-08-16 08:34:44.343 INFO [restartedMain:c.a.n.c.c.i.LocalConfigInfoProcessor] LOCAL_SNAPSHOT_PATH:E:\code\Grape-API/gatewayDubboCache\nacos\config
+2023-08-16 08:34:46.773 INFO [com.alibaba.nacos.client.remote.worker:c.a.n.c.c.i.ClientWorker] [2daaf188-6f95-4b1e-9383-2d3529334f4b_config-0] Connected,notify listen context...
+2023-08-16 08:34:46.789 INFO [restartedMain:c.a.n.c.c.i.Limiter] limitTime:5.0
+2023-08-16 07:54:21.269 INFO [restartedMain:c.a.n.c.u.ParamUtil] [settings] [req-serv] nacos-server port:8848
+2023-08-16 07:54:21.271 INFO [restartedMain:c.a.n.c.u.ParamUtil] [settings] [http-client] connect timeout:1000
+2023-08-16 07:54:21.271 INFO [restartedMain:c.a.n.c.u.ParamUtil] PER_TASK_CONFIG_SIZE: 3000.0
+2023-08-16 07:54:21.292 INFO [restartedMain:c.a.n.c.a.r.i.CredentialWatcher] null No credential found
+2023-08-16 07:54:21.298 INFO [restartedMain:c.a.n.c.c.i.LocalConfigInfoProcessor] LOCAL_SNAPSHOT_PATH:E:\code\Grape-API/gatewayDubboCache\nacos\config
+2023-08-16 07:54:24.314 INFO [com.alibaba.nacos.client.remote.worker:c.a.n.c.c.i.ClientWorker] [c350de61-6e9b-4f98-8327-bdb95d29112f_config-0] Connected,notify listen context...
+2023-08-16 07:54:24.344 INFO [restartedMain:c.a.n.c.c.i.Limiter] limitTime:5.0
+2023-08-16 07:54:36.620 INFO [restartedMain:c.a.n.c.c.i.CacheData] nacos.cache.data.init.snapshot = true 
+2023-08-16 07:54:36.620 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.migration+DUBBO_SERVICEDISCOVERY_MIGRATION
+2023-08-16 07:54:36.626 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.migration, group=DUBBO_SERVICEDISCOVERY_MIGRATION, cnt=1
+2023-08-16 07:54:36.668 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.configurators+dubbo
+2023-08-16 07:54:36.668 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.configurators, group=dubbo, cnt=1
+2023-08-16 07:54:36.686 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserService::.condition-router+dubbo
+2023-08-16 07:54:36.686 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserService::.condition-router, group=dubbo, cnt=1
+2023-08-16 07:54:36.692 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.condition-router+dubbo
+2023-08-16 07:54:36.692 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.condition-router, group=dubbo, cnt=1
+2023-08-16 07:54:36.740 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserService::.configurators+dubbo
+2023-08-16 07:54:36.741 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserService::.configurators, group=dubbo, cnt=1
+2023-08-16 07:54:36.953 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserService+mapping
+2023-08-16 07:54:36.953 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserService, group=mapping, cnt=1
+2023-08-16 07:54:37.074 INFO [com.alibaba.nacos.client.remote.worker:c.a.n.c.c.i.ClientWorker] [d5179774-730d-4c67-9f92-00c9d8e10067_config-0] Connected,notify listen context...
+2023-08-16 07:54:37.087 INFO [restartedMain:c.a.n.c.c.u.JvmUtil] isMultiInstance:false
+2023-08-16 07:54:37.235 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] org.apache.dubbo.metadata.MetadataService:1.0.0:dubbo-springboot-demo-provider.configurators+dubbo
+2023-08-16 07:54:37.235 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=org.apache.dubbo.metadata.MetadataService:1.0.0:dubbo-springboot-demo-provider.configurators, group=dubbo, cnt=1
+2023-08-16 07:54:37.286 INFO [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [notify-listener] time cost=0ms in ClientWorker, dataId=com.grapeapi.apicommon.service.InnerUserService, group=mapping, md5=2ae926d997a913eef80e928555b6660d, listener=org.apache.dubbo.metadata.store.nacos.NacosMetadataReport$NacosConfigListener@2dcb1268 
+2023-08-16 07:54:37.286 INFO [nacos.client.cachedata.internal.notifier:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [notify-context] dataId=com.grapeapi.apicommon.service.InnerUserService, group=mapping, md5=2ae926d997a913eef80e928555b6660d
+2023-08-16 07:54:37.288 INFO [nacos.client.cachedata.internal.notifier:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [notify-ok] dataId=com.grapeapi.apicommon.service.InnerUserService, group=mapping, md5=2ae926d997a913eef80e928555b6660d, listener=org.apache.dubbo.metadata.store.nacos.NacosMetadataReport$NacosConfigListener@2dcb1268 ,cost=2 millis.
+2023-08-16 07:54:38.108 INFO [restartedMain:c.a.n.c.a.r.i.CredentialWatcher] [null] CredentialWatcher is stopped
+2023-08-16 07:54:38.108 INFO [restartedMain:c.a.n.c.a.r.i.CredentialService] [null] CredentialService is freed
+2023-08-16 07:54:39.483 INFO [com.alibaba.nacos.client.Worker:c.a.n.c.a.r.i.CredentialWatcher] null No credential found
+2023-08-16 07:54:40.201 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] com.alibaba.nacos.client.config.impl.ClientWorker do shutdown begin
+2023-08-16 07:54:40.202 INFO [restartedMain:c.a.n.c.a.r.i.CredentialWatcher] [null] CredentialWatcher is stopped
+2023-08-16 07:54:40.202 INFO [restartedMain:c.a.n.c.a.r.i.CredentialService] [null] CredentialService is freed
+2023-08-16 07:54:40.202 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] Trying to shutdown transport client com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient@1f413809
+2023-08-16 07:54:40.202 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] Trying to shutdown rpc client c350de61-6e9b-4f98-8327-bdb95d29112f_config-0
+2023-08-16 07:54:40.203 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] Remove rpc client c350de61-6e9b-4f98-8327-bdb95d29112f_config-0
+2023-08-16 07:54:40.203 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] Shutdown executor java.util.concurrent.ScheduledThreadPoolExecutor@536d974[Running, pool size = 6, active threads = 1, queued tasks = 1, completed tasks = 4]
+2023-08-16 07:54:40.203 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] com.alibaba.nacos.client.config.impl.ClientWorker do shutdown stop
+2023-08-16 07:54:41.481 INFO [com.alibaba.nacos.client.naming.security:c.a.n.c.a.r.i.CredentialWatcher] null No credential found
+2023-08-16 07:56:57.892 INFO [restartedMain:c.a.n.c.u.ParamUtil] [settings] [req-serv] nacos-server port:8848
+2023-08-16 07:56:57.894 INFO [restartedMain:c.a.n.c.u.ParamUtil] [settings] [http-client] connect timeout:1000
+2023-08-16 07:56:57.895 INFO [restartedMain:c.a.n.c.u.ParamUtil] PER_TASK_CONFIG_SIZE: 3000.0
+2023-08-16 07:56:57.913 INFO [restartedMain:c.a.n.c.a.r.i.CredentialWatcher] null No credential found
+2023-08-16 07:56:57.918 INFO [restartedMain:c.a.n.c.c.i.LocalConfigInfoProcessor] LOCAL_SNAPSHOT_PATH:E:\code\Grape-API/gatewayDubboCache\nacos\config
+2023-08-16 07:57:00.442 INFO [com.alibaba.nacos.client.remote.worker:c.a.n.c.c.i.ClientWorker] [3298bb6b-95ee-4c27-adab-991b609a20c7_config-0] Connected,notify listen context...
+2023-08-16 07:57:00.471 INFO [restartedMain:c.a.n.c.c.i.Limiter] limitTime:5.0
+2023-08-16 07:57:12.577 INFO [restartedMain:c.a.n.c.c.i.CacheData] nacos.cache.data.init.snapshot = true 
+2023-08-16 07:57:12.577 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.migration+DUBBO_SERVICEDISCOVERY_MIGRATION
+2023-08-16 07:57:12.585 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.migration, group=DUBBO_SERVICEDISCOVERY_MIGRATION, cnt=1
+2023-08-16 07:57:12.629 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.configurators+dubbo
+2023-08-16 07:57:12.629 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.configurators, group=dubbo, cnt=1
+2023-08-16 07:57:12.646 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserService::.condition-router+dubbo
+2023-08-16 07:57:12.646 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserService::.condition-router, group=dubbo, cnt=1
+2023-08-16 07:57:12.651 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.condition-router+dubbo
+2023-08-16 07:57:12.651 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.condition-router, group=dubbo, cnt=1
+2023-08-16 07:57:12.810 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.MESHAPPRULE+dubbo
+2023-08-16 07:57:12.811 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.MESHAPPRULE, group=dubbo, cnt=1
+2023-08-16 07:57:12.812 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.tag-router+dubbo
+2023-08-16 07:57:12.813 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.tag-router, group=dubbo, cnt=1
+2023-08-16 07:57:12.822 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserService::.configurators+dubbo
+2023-08-16 07:57:12.822 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserService::.configurators, group=dubbo, cnt=1
+2023-08-16 07:57:13.034 INFO [restartedMain:c.a.n.c.c.u.JvmUtil] isMultiInstance:false
+2023-08-16 07:57:13.035 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserService+mapping
+2023-08-16 07:57:13.035 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserService, group=mapping, cnt=1
+2023-08-16 07:57:13.162 INFO [com.alibaba.nacos.client.remote.worker:c.a.n.c.c.i.ClientWorker] [dd60ee1d-c73e-4e92-9db3-ff1d44120427_config-0] Connected,notify listen context...
+2023-08-16 07:57:13.405 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserInterfaceInfoService::.condition-router+dubbo
+2023-08-16 07:57:13.406 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserInterfaceInfoService::.condition-router, group=dubbo, cnt=1
+2023-08-16 07:57:13.426 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserInterfaceInfoService::.configurators+dubbo
+2023-08-16 07:57:13.426 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserInterfaceInfoService::.configurators, group=dubbo, cnt=1
+2023-08-16 07:57:13.634 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserInterfaceInfoService+mapping
+2023-08-16 07:57:13.635 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserInterfaceInfoService, group=mapping, cnt=1
+2023-08-16 07:57:13.651 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerInterfaceInfoService::.condition-router+dubbo
+2023-08-16 07:57:13.651 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerInterfaceInfoService::.condition-router, group=dubbo, cnt=1
+2023-08-16 07:57:13.674 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerInterfaceInfoService::.configurators+dubbo
+2023-08-16 07:57:13.674 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerInterfaceInfoService::.configurators, group=dubbo, cnt=1
+2023-08-16 07:57:13.841 INFO [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [notify-listener] time cost=0ms in ClientWorker, dataId=com.grapeapi.apicommon.service.InnerUserInterfaceInfoService, group=mapping, md5=2ae926d997a913eef80e928555b6660d, listener=org.apache.dubbo.metadata.store.nacos.NacosMetadataReport$NacosConfigListener@436e63c3 
+2023-08-16 07:57:13.842 INFO [nacos.client.cachedata.internal.notifier:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [notify-context] dataId=com.grapeapi.apicommon.service.InnerUserInterfaceInfoService, group=mapping, md5=2ae926d997a913eef80e928555b6660d
+2023-08-16 07:57:13.847 INFO [nacos.client.cachedata.internal.notifier:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [notify-ok] dataId=com.grapeapi.apicommon.service.InnerUserInterfaceInfoService, group=mapping, md5=2ae926d997a913eef80e928555b6660d, listener=org.apache.dubbo.metadata.store.nacos.NacosMetadataReport$NacosConfigListener@436e63c3 ,cost=6 millis.
+2023-08-16 07:57:13.879 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerInterfaceInfoService+mapping
+2023-08-16 07:57:13.879 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerInterfaceInfoService, group=mapping, cnt=1
+2023-08-16 07:57:13.956 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] org.apache.dubbo.metadata.MetadataService:1.0.0:dubbo-springboot-demo-provider.configurators+dubbo
+2023-08-16 07:57:13.956 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=org.apache.dubbo.metadata.MetadataService:1.0.0:dubbo-springboot-demo-provider.configurators, group=dubbo, cnt=1
+2023-08-16 07:57:14.087 INFO [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [notify-listener] time cost=0ms in ClientWorker, dataId=com.grapeapi.apicommon.service.InnerInterfaceInfoService, group=mapping, md5=2ae926d997a913eef80e928555b6660d, listener=org.apache.dubbo.metadata.store.nacos.NacosMetadataReport$NacosConfigListener@540d6b4e 
+2023-08-16 07:57:14.087 INFO [nacos.client.cachedata.internal.notifier:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [notify-context] dataId=com.grapeapi.apicommon.service.InnerInterfaceInfoService, group=mapping, md5=2ae926d997a913eef80e928555b6660d
+2023-08-16 07:57:14.088 INFO [nacos.client.cachedata.internal.notifier:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [notify-ok] dataId=com.grapeapi.apicommon.service.InnerInterfaceInfoService, group=mapping, md5=2ae926d997a913eef80e928555b6660d, listener=org.apache.dubbo.metadata.store.nacos.NacosMetadataReport$NacosConfigListener@540d6b4e ,cost=1 millis.
+2023-08-16 08:13:59.896 INFO [restartedMain:c.a.n.c.u.ParamUtil] [settings] [req-serv] nacos-server port:8848
+2023-08-16 08:13:59.896 INFO [restartedMain:c.a.n.c.u.ParamUtil] [settings] [http-client] connect timeout:1000
+2023-08-16 08:13:59.896 INFO [restartedMain:c.a.n.c.u.ParamUtil] PER_TASK_CONFIG_SIZE: 3000.0
+2023-08-16 08:13:59.912 INFO [restartedMain:c.a.n.c.a.r.i.CredentialWatcher] null No credential found
+2023-08-16 08:13:59.927 INFO [restartedMain:c.a.n.c.c.i.LocalConfigInfoProcessor] LOCAL_SNAPSHOT_PATH:E:\code\Grape-API/gatewayDubboCache\nacos\config
+2023-08-16 08:14:02.314 INFO [com.alibaba.nacos.client.remote.worker:c.a.n.c.c.i.ClientWorker] [00ada41a-d609-40a1-a8c0-bf5ef616e445_config-0] Connected,notify listen context...
+2023-08-16 08:14:02.345 INFO [restartedMain:c.a.n.c.c.i.Limiter] limitTime:5.0
+2023-08-16 08:14:14.008 INFO [restartedMain:c.a.n.c.c.i.CacheData] nacos.cache.data.init.snapshot = true 
+2023-08-16 08:14:14.008 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.migration+DUBBO_SERVICEDISCOVERY_MIGRATION
+2023-08-16 08:14:14.008 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.migration, group=DUBBO_SERVICEDISCOVERY_MIGRATION, cnt=1
+2023-08-16 08:14:14.055 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.configurators+dubbo
+2023-08-16 08:14:14.055 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.configurators, group=dubbo, cnt=1
+2023-08-16 08:14:14.070 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserService::.condition-router+dubbo
+2023-08-16 08:14:14.070 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserService::.condition-router, group=dubbo, cnt=1
+2023-08-16 08:14:14.086 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.condition-router+dubbo
+2023-08-16 08:14:14.086 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.condition-router, group=dubbo, cnt=1
+2023-08-16 08:14:14.228 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.MESHAPPRULE+dubbo
+2023-08-16 08:14:14.228 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.MESHAPPRULE, group=dubbo, cnt=1
+2023-08-16 08:14:14.243 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.tag-router+dubbo
+2023-08-16 08:14:14.243 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.tag-router, group=dubbo, cnt=1
+2023-08-16 08:14:14.243 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserService::.configurators+dubbo
+2023-08-16 08:14:14.243 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserService::.configurators, group=dubbo, cnt=1
+2023-08-16 08:14:14.455 INFO [restartedMain:c.a.n.c.c.u.JvmUtil] isMultiInstance:false
+2023-08-16 08:14:14.455 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserService+mapping
+2023-08-16 08:14:14.455 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserService, group=mapping, cnt=1
+2023-08-16 08:14:14.580 INFO [com.alibaba.nacos.client.remote.worker:c.a.n.c.c.i.ClientWorker] [a5f3fdc2-dd51-4b19-bba9-e64e39bba93d_config-0] Connected,notify listen context...
+2023-08-16 08:14:14.815 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserInterfaceInfoService::.condition-router+dubbo
+2023-08-16 08:14:14.815 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserInterfaceInfoService::.condition-router, group=dubbo, cnt=1
+2023-08-16 08:14:14.830 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserInterfaceInfoService::.configurators+dubbo
+2023-08-16 08:14:14.830 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserInterfaceInfoService::.configurators, group=dubbo, cnt=1
+2023-08-16 08:14:15.036 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserInterfaceInfoService+mapping
+2023-08-16 08:14:15.036 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserInterfaceInfoService, group=mapping, cnt=1
+2023-08-16 08:14:15.052 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerInterfaceInfoService::.condition-router+dubbo
+2023-08-16 08:14:15.052 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerInterfaceInfoService::.condition-router, group=dubbo, cnt=1
+2023-08-16 08:14:15.068 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerInterfaceInfoService::.configurators+dubbo
+2023-08-16 08:14:15.068 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerInterfaceInfoService::.configurators, group=dubbo, cnt=1
+2023-08-16 08:14:15.287 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerInterfaceInfoService+mapping
+2023-08-16 08:14:15.287 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerInterfaceInfoService, group=mapping, cnt=1
+2023-08-16 08:14:15.349 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] org.apache.dubbo.metadata.MetadataService:1.0.0:dubbo-springboot-demo-provider.configurators+dubbo
+2023-08-16 08:14:15.349 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=org.apache.dubbo.metadata.MetadataService:1.0.0:dubbo-springboot-demo-provider.configurators, group=dubbo, cnt=1
+2023-08-19 22:58:32.651 INFO [restartedMain:c.a.n.c.u.ParamUtil] [settings] [req-serv] nacos-server port:8848
+2023-08-19 22:58:32.652 INFO [restartedMain:c.a.n.c.u.ParamUtil] [settings] [http-client] connect timeout:1000
+2023-08-19 22:58:32.653 INFO [restartedMain:c.a.n.c.u.ParamUtil] PER_TASK_CONFIG_SIZE: 3000.0
+2023-08-19 22:58:32.674 INFO [restartedMain:c.a.n.c.a.r.i.CredentialWatcher] null No credential found
+2023-08-19 22:58:32.679 INFO [restartedMain:c.a.n.c.c.i.LocalConfigInfoProcessor] LOCAL_SNAPSHOT_PATH:E:\code\Grape-API/gatewayDubboCache\nacos\config
+2023-08-19 22:58:43.019 INFO [restartedMain:c.a.n.c.c.i.Limiter] limitTime:5.0
+2023-08-19 22:58:43.341 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get from server error, dataId=dubbo.properties, group=dubbo, tenant=, msg=ErrCode:-401, ErrMsg:Client not connected, current status:STARTING
+2023-08-19 22:58:43.342 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get snapshot ok, dataId=dubbo.properties, group=dubbo, tenant=, config=
+2023-08-19 22:58:43.669 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get from server error, dataId=dubbo.properties, group=dubbo-springboot-demo-provider, tenant=, msg=ErrCode:-401, ErrMsg:Client not connected, current status:STARTING
+2023-08-19 22:58:43.669 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get snapshot ok, dataId=dubbo.properties, group=dubbo-springboot-demo-provider, tenant=, config=
+2023-08-19 22:59:05.642 INFO [restartedMain:c.a.n.c.c.i.CacheData] nacos.cache.data.init.snapshot = true 
+2023-08-19 22:59:05.642 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.migration+DUBBO_SERVICEDISCOVERY_MIGRATION
+2023-08-19 22:59:05.650 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.migration, group=DUBBO_SERVICEDISCOVERY_MIGRATION, cnt=1
+2023-08-19 22:59:05.979 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get from server error, dataId=dubbo-springboot-demo-provider.migration, group=DUBBO_SERVICEDISCOVERY_MIGRATION, tenant=, msg=ErrCode:-401, ErrMsg:Client not connected, current status:STARTING
+2023-08-19 22:59:05.979 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get snapshot ok, dataId=dubbo-springboot-demo-provider.migration, group=DUBBO_SERVICEDISCOVERY_MIGRATION, tenant=, config=
+2023-08-19 22:59:05.979 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:06.293 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get from server error, dataId=dubbo.application.migration.step, group=dubbo, tenant=, msg=ErrCode:-401, ErrMsg:Client not connected, current status:STARTING
+2023-08-19 22:59:06.293 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get snapshot ok, dataId=dubbo.application.migration.step, group=dubbo, tenant=, config=
+2023-08-19 22:59:06.618 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get from server error, dataId=dubbo.application.service-discovery.migration, group=dubbo, tenant=, msg=ErrCode:-401, ErrMsg:Client not connected, current status:STARTING
+2023-08-19 22:59:06.618 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get snapshot ok, dataId=dubbo.application.service-discovery.migration, group=dubbo, tenant=, config=
+2023-08-19 22:59:06.646 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.configurators+dubbo
+2023-08-19 22:59:06.646 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.configurators, group=dubbo, cnt=1
+2023-08-19 22:59:06.977 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get from server error, dataId=dubbo-springboot-demo-provider.configurators, group=dubbo, tenant=, msg=ErrCode:-401, ErrMsg:Client not connected, current status:STARTING
+2023-08-19 22:59:06.977 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get snapshot ok, dataId=dubbo-springboot-demo-provider.configurators, group=dubbo, tenant=, config=
+2023-08-19 22:59:06.977 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:06.991 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserService::.condition-router+dubbo
+2023-08-19 22:59:06.991 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserService::.condition-router, group=dubbo, cnt=1
+2023-08-19 22:59:07.320 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get from server error, dataId=com.grapeapi.apicommon.service.InnerUserService::.condition-router, group=dubbo, tenant=, msg=ErrCode:-401, ErrMsg:Client not connected, current status:STARTING
+2023-08-19 22:59:07.320 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get snapshot ok, dataId=com.grapeapi.apicommon.service.InnerUserService::.condition-router, group=dubbo, tenant=, config=
+2023-08-19 22:59:07.321 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.condition-router+dubbo
+2023-08-19 22:59:07.322 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.condition-router, group=dubbo, cnt=1
+2023-08-19 22:59:07.367 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:07.650 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get from server error, dataId=dubbo-springboot-demo-provider.condition-router, group=dubbo, tenant=, msg=ErrCode:-401, ErrMsg:Client not connected, current status:STARTING
+2023-08-19 22:59:07.650 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get snapshot ok, dataId=dubbo-springboot-demo-provider.condition-router, group=dubbo, tenant=, config=
+2023-08-19 22:59:07.762 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:10.445 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get from server error, dataId=dubbo-springboot-demo-provider.MESHAPPRULE, group=dubbo, tenant=, msg=ErrCode:-401, ErrMsg:Client not connected, current status:STARTING
+2023-08-19 22:59:10.445 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get snapshot ok, dataId=dubbo-springboot-demo-provider.MESHAPPRULE, group=dubbo, tenant=, config=
+2023-08-19 22:59:10.445 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.MESHAPPRULE+dubbo
+2023-08-19 22:59:10.446 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.MESHAPPRULE, group=dubbo, cnt=1
+2023-08-19 22:59:10.447 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.tag-router+dubbo
+2023-08-19 22:59:10.447 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.tag-router, group=dubbo, cnt=1
+2023-08-19 22:59:10.775 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get from server error, dataId=dubbo-springboot-demo-provider.tag-router, group=dubbo, tenant=, msg=ErrCode:-401, ErrMsg:Client not connected, current status:STARTING
+2023-08-19 22:59:10.775 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get snapshot ok, dataId=dubbo-springboot-demo-provider.tag-router, group=dubbo, tenant=, config=
+2023-08-19 22:59:10.776 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:10.780 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserService::.configurators+dubbo
+2023-08-19 22:59:10.780 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserService::.configurators, group=dubbo, cnt=1
+2023-08-19 22:59:11.108 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get from server error, dataId=com.grapeapi.apicommon.service.InnerUserService::.configurators, group=dubbo, tenant=, msg=ErrCode:-401, ErrMsg:Client not connected, current status:STARTING
+2023-08-19 22:59:11.108 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get snapshot ok, dataId=com.grapeapi.apicommon.service.InnerUserService::.configurators, group=dubbo, tenant=, config=
+2023-08-19 22:59:11.171 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:16.572 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:20.497 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get from server error, dataId=dubbo-springboot-demo-provider.configurators, group=dubbo, tenant=, msg=ErrCode:-401, ErrMsg:Client not connected, current status:STARTING
+2023-08-19 22:59:20.497 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get snapshot ok, dataId=dubbo-springboot-demo-provider.configurators, group=dubbo, tenant=, config=
+2023-08-19 22:59:20.497 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:20.826 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get from server error, dataId=com.grapeapi.apicommon.service.InnerUserService::.configurators, group=dubbo, tenant=, msg=ErrCode:-401, ErrMsg:Client not connected, current status:STARTING
+2023-08-19 22:59:20.826 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get snapshot ok, dataId=com.grapeapi.apicommon.service.InnerUserService::.configurators, group=dubbo, tenant=, config=
+2023-08-19 22:59:20.833 INFO [restartedMain:c.a.n.c.c.u.JvmUtil] isMultiInstance:false
+2023-08-19 22:59:20.834 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserService+mapping
+2023-08-19 22:59:20.834 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserService, group=mapping, cnt=1
+2023-08-19 22:59:20.887 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:26.282 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:30.192 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get from server error, dataId=com.grapeapi.apicommon.service.InnerUserService, group=mapping, tenant=, msg=ErrCode:-401, ErrMsg:Client not connected, current status:STARTING
+2023-08-19 22:59:30.192 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get snapshot ok, dataId=com.grapeapi.apicommon.service.InnerUserService, group=mapping, tenant=, config=
+2023-08-19 22:59:30.193 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:31.681 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:35.590 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:37.084 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:40.994 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:42.491 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:46.386 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:47.891 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:51.785 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:53.060 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get from server error, dataId=dubbo.application.register-mode, group=dubbo, tenant=, msg=ErrCode:-401, ErrMsg:Client not connected, current status:STARTING
+2023-08-19 22:59:53.060 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get snapshot ok, dataId=dubbo.application.register-mode, group=dubbo, tenant=, config=
+2023-08-19 22:59:53.297 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:53.438 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get from server error, dataId=dubbo-springboot-demo-provider.configurators, group=dubbo, tenant=, msg=ErrCode:-401, ErrMsg:Client not connected, current status:STARTING
+2023-08-19 22:59:53.438 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get snapshot ok, dataId=dubbo-springboot-demo-provider.configurators, group=dubbo, tenant=, config=
+2023-08-19 22:59:53.438 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] org.apache.dubbo.metadata.MetadataService:1.0.0:dubbo-springboot-demo-provider.configurators+dubbo
+2023-08-19 22:59:53.438 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=org.apache.dubbo.metadata.MetadataService:1.0.0:dubbo-springboot-demo-provider.configurators, group=dubbo, cnt=1
+2023-08-19 22:59:53.685 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:53.763 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get from server error, dataId=org.apache.dubbo.metadata.MetadataService:1.0.0:dubbo-springboot-demo-provider.configurators, group=dubbo, tenant=, msg=ErrCode:-401, ErrMsg:Client not connected, current status:STARTING
+2023-08-19 22:59:53.763 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get snapshot ok, dataId=org.apache.dubbo.metadata.MetadataService:1.0.0:dubbo-springboot-demo-provider.configurators, group=dubbo, tenant=, config=
+2023-08-19 22:59:54.075 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:54.106 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get from server error, dataId=dubbo-springboot-demo-provider.migration, group=DUBBO_SERVICEDISCOVERY_MIGRATION, tenant=, msg=ErrCode:-401, ErrMsg:Client not connected, current status:STARTING
+2023-08-19 22:59:54.106 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get snapshot ok, dataId=dubbo-springboot-demo-provider.migration, group=DUBBO_SERVICEDISCOVERY_MIGRATION, tenant=, config=
+2023-08-19 22:59:54.432 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get from server error, dataId=org.apache.dubbo.metadata.MetadataService:1.0.0:dubbo-springboot-demo-provider.configurators, group=dubbo, tenant=, msg=ErrCode:-401, ErrMsg:Client not connected, current status:STARTING
+2023-08-19 22:59:54.432 WARN [restartedMain:c.a.n.c.c.NacosConfigService] [fixed-localhost_8848] [get-config] get snapshot ok, dataId=org.apache.dubbo.metadata.MetadataService:1.0.0:dubbo-springboot-demo-provider.configurators, group=dubbo, tenant=, config=
+2023-08-19 22:59:54.464 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 22:59:55.129 INFO [restartedMain:c.a.n.c.a.r.i.CredentialWatcher] [null] CredentialWatcher is stopped
+2023-08-19 22:59:55.129 INFO [restartedMain:c.a.n.c.a.r.i.CredentialService] [null] CredentialService is freed
+2023-08-19 22:59:56.432 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] com.alibaba.nacos.client.config.impl.ClientWorker do shutdown begin
+2023-08-19 22:59:56.432 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] Trying to shutdown transport client com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient@54f3c1f6
+2023-08-19 22:59:56.432 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] Trying to shutdown rpc client a46e6931-4912-4054-b59c-8e8a0d6b1c15_config-0
+2023-08-19 22:59:56.433 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] Remove rpc client a46e6931-4912-4054-b59c-8e8a0d6b1c15_config-0
+2023-08-19 22:59:56.433 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] Shutdown executor java.util.concurrent.ScheduledThreadPoolExecutor@7ef30047[Running, pool size = 16, active threads = 1, queued tasks = 1, completed tasks = 17]
+2023-08-19 22:59:56.433 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] com.alibaba.nacos.client.config.impl.ClientWorker do shutdown stop
+2023-08-19 22:59:56.676 INFO [com.alibaba.nacos.client.naming.security:c.a.n.c.a.r.i.CredentialWatcher] null No credential found
+2023-08-19 22:59:57.177 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-19 23:00:02.577 ERROR [com.alibaba.nacos.client.Worker:c.a.n.c.c.i.ClientWorker] Async listen config change error 
+com.alibaba.nacos.api.exception.NacosException: Client not connected, current status:STARTING
+	at com.alibaba.nacos.common.remote.client.RpcClient.request(RpcClient.java:651) ~[nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:1005) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.requestProxy(ClientWorker.java:986) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.executeConfigListen(ClientWorker.java:777) [nacos-client-2.1.0.jar:na]
+	at com.alibaba.nacos.client.config.impl.ClientWorker$ConfigRpcTransportClient.lambda$startInternal$2(ClientWorker.java:695) [nacos-client-2.1.0.jar:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_281]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_281]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]

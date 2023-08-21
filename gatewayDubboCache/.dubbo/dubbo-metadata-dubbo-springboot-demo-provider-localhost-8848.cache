@@ -1,0 +1,3 @@
+#Dubbo metadataReport Cache
+#Sat Aug 19 22:59:39 CST 2023
+com.grapeapi.apicommon.service.InnerUserService\:\:\:consumer\:dubbo-springboot-demo-provider={"side"\:"consumer","dubbo"\:"2.0.2","release"\:"3.0.9","application"\:"dubbo-springboot-demo-provider","interface"\:"com.grapeapi.apicommon.service.InnerUserService","pid"\:"26996","sticky"\:"false","register.ip"\:"192.168.229.1","methods"\:"getInvokeUser","background"\:"false","timestamp"\:"1692457136345"}
