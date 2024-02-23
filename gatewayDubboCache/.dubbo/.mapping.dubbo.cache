@@ -1,0 +1,5 @@
+#Dubbo cache
+#Wed Aug 30 15:21:17 CST 2023
+com.grapeapi.apicommon.service.InnerUserInterfaceInfoService=["dubbo-springboot-demo-provider"]
+com.grapeapi.apicommon.service.InnerInterfaceInfoService=["dubbo-springboot-demo-provider"]
+com.grapeapi.apicommon.service.InnerUserService=["dubbo-springboot-demo-provider"]

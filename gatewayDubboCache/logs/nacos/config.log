@@ -560,3 +560,83 @@ com.alibaba.nacos.api.exception.NacosException: Client not connected, current st
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) ~[na:1.8.0_281]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) ~[na:1.8.0_281]
 	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_281]
+2023-08-30 15:12:47.786 INFO [restartedMain:c.a.n.c.u.ParamUtil] [settings] [req-serv] nacos-server port:8848
+2023-08-30 15:12:47.787 INFO [restartedMain:c.a.n.c.u.ParamUtil] [settings] [http-client] connect timeout:1000
+2023-08-30 15:12:47.789 INFO [restartedMain:c.a.n.c.u.ParamUtil] PER_TASK_CONFIG_SIZE: 3000.0
+2023-08-30 15:12:47.812 INFO [restartedMain:c.a.n.c.a.r.i.CredentialWatcher] null No credential found
+2023-08-30 15:12:47.816 INFO [restartedMain:c.a.n.c.c.i.LocalConfigInfoProcessor] LOCAL_SNAPSHOT_PATH:E:\code\Grape-API/gatewayDubboCache\nacos\config
+2023-08-30 15:12:50.839 INFO [com.alibaba.nacos.client.remote.worker:c.a.n.c.c.i.ClientWorker] [b83f0655-9960-4fbd-ba5e-036bf3458a11_config-0] Connected,notify listen context...
+2023-08-30 15:12:50.868 INFO [restartedMain:c.a.n.c.c.i.Limiter] limitTime:5.0
+2023-08-30 15:13:05.067 INFO [restartedMain:c.a.n.c.c.i.CacheData] nacos.cache.data.init.snapshot = true 
+2023-08-30 15:13:05.068 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.migration+DUBBO_SERVICEDISCOVERY_MIGRATION
+2023-08-30 15:13:05.078 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.migration, group=DUBBO_SERVICEDISCOVERY_MIGRATION, cnt=1
+2023-08-30 15:13:05.127 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.configurators+dubbo
+2023-08-30 15:13:05.127 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.configurators, group=dubbo, cnt=1
+2023-08-30 15:13:05.146 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserService::.condition-router+dubbo
+2023-08-30 15:13:05.146 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserService::.condition-router, group=dubbo, cnt=1
+2023-08-30 15:13:05.153 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.condition-router+dubbo
+2023-08-30 15:13:05.153 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.condition-router, group=dubbo, cnt=1
+2023-08-30 15:13:05.319 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.MESHAPPRULE+dubbo
+2023-08-30 15:13:05.320 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.MESHAPPRULE, group=dubbo, cnt=1
+2023-08-30 15:13:05.321 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.tag-router+dubbo
+2023-08-30 15:13:05.321 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.tag-router, group=dubbo, cnt=1
+2023-08-30 15:13:05.331 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserService::.configurators+dubbo
+2023-08-30 15:13:05.332 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserService::.configurators, group=dubbo, cnt=1
+2023-08-30 15:13:05.545 INFO [restartedMain:c.a.n.c.c.u.JvmUtil] isMultiInstance:false
+2023-08-30 15:13:05.546 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserService+mapping
+2023-08-30 15:13:05.546 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserService, group=mapping, cnt=1
+2023-08-30 15:13:05.667 INFO [com.alibaba.nacos.client.remote.worker:c.a.n.c.c.i.ClientWorker] [80a8012c-c3dc-4ffd-a336-2d8d149365ad_config-0] Connected,notify listen context...
+2023-08-30 15:13:05.924 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserInterfaceInfoService::.condition-router+dubbo
+2023-08-30 15:13:05.924 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserInterfaceInfoService::.condition-router, group=dubbo, cnt=1
+2023-08-30 15:13:05.945 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserInterfaceInfoService::.configurators+dubbo
+2023-08-30 15:13:05.945 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserInterfaceInfoService::.configurators, group=dubbo, cnt=1
+2023-08-30 15:13:06.152 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserInterfaceInfoService+mapping
+2023-08-30 15:13:06.152 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserInterfaceInfoService, group=mapping, cnt=1
+2023-08-30 15:13:06.171 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerInterfaceInfoService::.condition-router+dubbo
+2023-08-30 15:13:06.172 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerInterfaceInfoService::.condition-router, group=dubbo, cnt=1
+2023-08-30 15:13:06.199 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerInterfaceInfoService::.configurators+dubbo
+2023-08-30 15:13:06.199 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerInterfaceInfoService::.configurators, group=dubbo, cnt=1
+2023-08-30 15:13:06.405 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerInterfaceInfoService+mapping
+2023-08-30 15:13:06.405 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerInterfaceInfoService, group=mapping, cnt=1
+2023-08-30 15:13:06.486 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] org.apache.dubbo.metadata.MetadataService:1.0.0:dubbo-springboot-demo-provider.configurators+dubbo
+2023-08-30 15:13:06.487 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=org.apache.dubbo.metadata.MetadataService:1.0.0:dubbo-springboot-demo-provider.configurators, group=dubbo, cnt=1
+2023-08-30 15:19:33.054 INFO [restartedMain:c.a.n.c.u.ParamUtil] [settings] [req-serv] nacos-server port:8848
+2023-08-30 15:19:33.056 INFO [restartedMain:c.a.n.c.u.ParamUtil] [settings] [http-client] connect timeout:1000
+2023-08-30 15:19:33.057 INFO [restartedMain:c.a.n.c.u.ParamUtil] PER_TASK_CONFIG_SIZE: 3000.0
+2023-08-30 15:19:33.076 INFO [restartedMain:c.a.n.c.a.r.i.CredentialWatcher] null No credential found
+2023-08-30 15:19:33.081 INFO [restartedMain:c.a.n.c.c.i.LocalConfigInfoProcessor] LOCAL_SNAPSHOT_PATH:E:\code\Grape-API/gatewayDubboCache\nacos\config
+2023-08-30 15:19:36.156 INFO [com.alibaba.nacos.client.remote.worker:c.a.n.c.c.i.ClientWorker] [a5f85ad0-6e9e-4653-8f1f-eec6fe2a53b6_config-0] Connected,notify listen context...
+2023-08-30 15:19:36.187 INFO [restartedMain:c.a.n.c.c.i.Limiter] limitTime:5.0
+2023-08-30 15:19:50.216 INFO [restartedMain:c.a.n.c.c.i.CacheData] nacos.cache.data.init.snapshot = true 
+2023-08-30 15:19:50.217 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.migration+DUBBO_SERVICEDISCOVERY_MIGRATION
+2023-08-30 15:19:50.225 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.migration, group=DUBBO_SERVICEDISCOVERY_MIGRATION, cnt=1
+2023-08-30 15:19:50.272 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.configurators+dubbo
+2023-08-30 15:19:50.272 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.configurators, group=dubbo, cnt=1
+2023-08-30 15:19:50.293 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserService::.condition-router+dubbo
+2023-08-30 15:19:50.293 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserService::.condition-router, group=dubbo, cnt=1
+2023-08-30 15:19:50.299 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.condition-router+dubbo
+2023-08-30 15:19:50.299 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.condition-router, group=dubbo, cnt=1
+2023-08-30 15:19:50.456 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.MESHAPPRULE+dubbo
+2023-08-30 15:19:50.456 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.MESHAPPRULE, group=dubbo, cnt=1
+2023-08-30 15:19:50.457 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] dubbo-springboot-demo-provider.tag-router+dubbo
+2023-08-30 15:19:50.457 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=dubbo-springboot-demo-provider.tag-router, group=dubbo, cnt=1
+2023-08-30 15:19:50.466 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserService::.configurators+dubbo
+2023-08-30 15:19:50.466 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserService::.configurators, group=dubbo, cnt=1
+2023-08-30 15:19:50.679 INFO [restartedMain:c.a.n.c.c.u.JvmUtil] isMultiInstance:false
+2023-08-30 15:19:50.680 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserService+mapping
+2023-08-30 15:19:50.680 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserService, group=mapping, cnt=1
+2023-08-30 15:19:50.794 INFO [com.alibaba.nacos.client.remote.worker:c.a.n.c.c.i.ClientWorker] [d2b74307-751c-44a7-ab81-555b3a6fb332_config-0] Connected,notify listen context...
+2023-08-30 15:19:51.045 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserInterfaceInfoService::.condition-router+dubbo
+2023-08-30 15:19:51.045 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserInterfaceInfoService::.condition-router, group=dubbo, cnt=1
+2023-08-30 15:19:51.063 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserInterfaceInfoService::.configurators+dubbo
+2023-08-30 15:19:51.064 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserInterfaceInfoService::.configurators, group=dubbo, cnt=1
+2023-08-30 15:19:51.269 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerUserInterfaceInfoService+mapping
+2023-08-30 15:19:51.269 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerUserInterfaceInfoService, group=mapping, cnt=1
+2023-08-30 15:19:51.290 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerInterfaceInfoService::.condition-router+dubbo
+2023-08-30 15:19:51.290 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerInterfaceInfoService::.condition-router, group=dubbo, cnt=1
+2023-08-30 15:19:51.312 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerInterfaceInfoService::.configurators+dubbo
+2023-08-30 15:19:51.312 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerInterfaceInfoService::.configurators, group=dubbo, cnt=1
+2023-08-30 15:19:51.516 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] com.grapeapi.apicommon.service.InnerInterfaceInfoService+mapping
+2023-08-30 15:19:51.516 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=com.grapeapi.apicommon.service.InnerInterfaceInfoService, group=mapping, cnt=1
+2023-08-30 15:19:51.606 INFO [restartedMain:c.a.n.c.c.i.ClientWorker] [fixed-localhost_8848] [subscribe] org.apache.dubbo.metadata.MetadataService:1.0.0:dubbo-springboot-demo-provider.configurators+dubbo
+2023-08-30 15:19:51.606 INFO [restartedMain:c.a.n.c.c.i.CacheData] [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=org.apache.dubbo.metadata.MetadataService:1.0.0:dubbo-springboot-demo-provider.configurators, group=dubbo, cnt=1
